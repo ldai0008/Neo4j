@@ -1,7 +1,7 @@
 /*
   Name       :LU DAI
   Unitcode   :FIT5137
-  Student Id :30759277
+  
 */
 
 //1. MonR has gained some new information about a trendy new place. Therefore, insert all of the information provided in Table 1.
